@@ -10,3 +10,5 @@ def categories(request):
 def main(request):
     return HttpResponse("<h1>Главная Страница</h1>")
 """раскумар"""
+"""раскумар"""
+"""раскумар3"""
