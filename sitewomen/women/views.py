@@ -9,4 +9,6 @@ def categories(request):
 
 def main(request):
     return HttpResponse("<h1>Главная Страница</h1>")
-"""hfcrevfh"""
+"""раскумар"""
+for i in range(2):
+    print(i)
