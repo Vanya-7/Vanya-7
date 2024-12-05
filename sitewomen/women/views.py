@@ -9,10 +9,4 @@ def categories(request):
 
 def main(request):
     return HttpResponse("<h1>Главная Страница</h1>")
-"""rsdfseffsfsefsfe"""
-"""rsdfseffsfsefsfe""""""rsdfseffsfsefsfe""""""rsdfseffsfsefsfe""""""rsdfseffsfsefsfe"""
-"""rsdfseffsfsefsfe""""""rsdfseffsfsefsfe""""""rsdfseffsfsefsfe""""""rsdfseffsfsefsfe""""""rsdfseffsfsefsfe""""""rsdfseffsfsefsfe"""
-"""rsdfseffsfsefsfe"""
-"""rsdfseffsfsefsfe"""
-"""rsdfseffsfsefsfe"""
-"""rsdfseffsfsefsfe"""
+"""hfcrevfh"""
