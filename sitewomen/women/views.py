@@ -5,11 +5,12 @@ def index(request): #HttpRequest
     return HttpResponse("Страница приложения women")
 
 def categories(request):
-    return HttpResponse("<h1>Статьи по катеригориям</h1>")
+    return HttpResponse("<h1>Главная Страница</h1>")
+
 
 def main(request):
-    return HttpResponse("<h1>Главная Страница</h1>")
+    return HttpResponse("<h1>Статьи по катеригориям</h1>")
 """раскумар"""
-"""раскумар"""
+""""""""""""""""""раскумар"""
 """раскумар3"""
-"""CATALOG"""
+"""CATALOG""""""""""""""""""
