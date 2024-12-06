@@ -10,7 +10,3 @@ def categories(request):
 
 def main(request):
     return HttpResponse("<h1>Статьи по катеригориям</h1>")
-"""раскумар"""
-""""""""""""""""""раскумар"""
-"""раскумар3"""
-"""CATALOG""""""""""""""""""
